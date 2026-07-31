@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujal0018/daily-dsa-digest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sujal0018/daily-dsa-digest/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
