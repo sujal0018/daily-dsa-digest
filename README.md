@@ -14,15 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujal0018/daily-dsa-digest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujal0018/daily-dsa-digest/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujal0018/daily-dsa-digest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujal0018/daily-dsa-digest/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujal0018/daily-dsa-digest/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujal0018/daily-dsa-digest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujal0018/daily-dsa-digest/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujal0018/daily-dsa-digest/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujal0018/daily-dsa-digest/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujal0018/daily-dsa-digest/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -46,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sujal0018/daily-dsa-digest/tree/master/1291-sequential-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sujal0018/daily-dsa-digest/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sujal0018/daily-dsa-digest/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
